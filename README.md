@@ -8,4 +8,4 @@ This is Modeling Report of BurgerSet Company by modeling it with Association and
 Association by Association Rule Learning with Apriori Algorithm
 Clustering by K-Means Algorithm
 
-Hope you get new insight and knowledge from it;)
+Hope you get new insight and knowledge from it ;)
