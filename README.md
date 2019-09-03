@@ -4,7 +4,7 @@ Team Panda (Kelompok 3), consist of :
   2. Dwi Smaradahana Indraloka
   3. Nurrimah
   
-This is Modeling Report of BurgerSet Company by modeling it with Association and Clustering.
+This is Modeling Report of BurgerSet Company by modeling it with Association and Clustering. <br>
 Association by Association Rule Learning with Apriori Algorithm
 Clustering by K-Means Algorithm
 
